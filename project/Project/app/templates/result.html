@@ -1,0 +1,224 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PG Results</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      padding: 30px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .info {
+      margin-bottom: 20px;
+      padding: 15px;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      background: #fafafa;
+    }
+    .info strong {
+      display: inline-block;
+      width: 180px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .back-link {
+      display: block;
+      text-align: center;
+      margin-top: 30px;
+      text-decoration: none;
+      color: #007BFF;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Results</h2>
+
+    {% if prediction %}
+      <div class="info">
+        <p><strong>Predicted Monthly Rent:</strong> ₹{{ prediction }}</p>
+        <p><strong>Number of Bedrooms:</strong> {{ bedrooms }}</p>
+        <p><strong>Distance from College (km):</strong> {{ distance }}</p>
+        <p><strong>Year of Build:</strong> {{ year }}</p>
+      </div>
+    {% elif recommendations %}
+      <p><strong>Recommended PGs:</strong></p>
+      <ul>
+        {% for pg in recommendations %}
+          <li>{{ pg }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No result available.</p>
+    {% endif %}
+
+    <a class="back-link" href="/">← Go Back</a>
+  </div>
+</body>
+</html> -->
+<!-- templates/home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title style="color: white;">PG Recommendation & Prediction</title>
+    <!-- <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background:url('/static/background_img2.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 40px auto;
+            background: #1c1b1b64;
+            padding: 25px;
+            box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
+            border-radius: 12px;
+            border: 2px solid rgb(31, 182, 232);
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        li {
+            margin: 15px 0;
+            padding: 10px;
+            background-color: #13131392;
+            border-radius: 8px;
+            color: rgb(255, 255, 255);
+        }
+        .highlight {
+            font-weight: bold;
+            color: #2980b9;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #3498db;
+            font-weight: bold;
+        }
+    </style> -->
+    <style>
+      body {
+          font-family: 'Poppins', sans-serif;
+          margin: 0;
+          padding: 0;
+          background: url('/static/background_img2.jpg') no-repeat center center/cover;
+          height: 100vh;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+      .container {
+          width: 90%;
+          max-width: 800px;
+          background: rgba(28, 27, 27, 0.8);
+          padding: 30px;
+          border-radius: 15px;
+          box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+          animation: fadeIn 1s ease;
+      }
+      @keyframes fadeIn {
+          from { opacity: 0; transform: translateY(20px); }
+          to { opacity: 1; transform: translateY(0); }
+      }
+      h2 {
+          text-align: center;
+          color: #00d4ff;
+          text-transform: uppercase;
+          margin-bottom: 20px;
+      }
+      ul {
+          list-style: none;
+          padding: 0;
+      }
+      li {
+          margin: 15px 0;
+          padding: 15px;
+          background: rgba(255, 255, 255, 0.1);
+          border-radius: 10px;
+          color: white;
+          transition: background 0.3s;
+      }
+      li:hover {
+          background: rgba(255, 255, 255, 0.2);
+      }
+      .highlight {
+          color: #00ffd5;
+          font-weight: bold;
+      }
+      .back-link {
+          display: block;
+          text-align: center;
+          margin-top: 20px;
+          padding: 10px 20px;
+          background-color: #00d4ff;
+          color: #fff;
+          text-decoration: none;
+          border-radius: 8px;
+          transition: background 0.3s;
+      }
+      .back-link:hover {
+          background-color: #00a0cc;
+      }
+  </style>
+  
+</head>
+<body>
+    <div class="container">
+        {% if prediction %}
+            <h2>Predicted Rent:</h2>
+            <p class="highlight">₹{{ prediction }}</p>
+            <ul>
+                <li>Bedrooms: {{ bedrooms }}</li>
+                <li>Distance from college: {{ distance }} km</li>
+                <li>Year Built: {{ year }}</li>
+                <li>{{location}}</li>
+                <li>{{property_type}}</li>
+                <li>{{furnishing}}</li>
+                <li>{{services}}</li>
+            </ul>
+        {% elif recommendations %}
+            <h2 style="color: white;text-align: center;text-transform: uppercase;">Top 5 Recommended PGs:</h2>
+            <ul>
+            {% for pg in recommendations %}
+                <li>
+                    <strong class="highlight">{{ pg['Name_of_PG'] }}</strong><br>
+                    Rent: ₹{{ pg['Monthly_rent'] }}<br>
+                    Year Built: {{ pg['Year_of_build'] }}<br>
+                    Distance: {{ pg['Distance_from_college'] }} km <br>
+                    Location: {{pg['Location_City']}}
+                </li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            <h2>No results found.</h2>
+        {% endif %}
+        <a class="back-link" href="/">← Go Back</a>
+    </div>
+</body>
+</html>
+

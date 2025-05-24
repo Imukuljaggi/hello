@@ -1,0 +1,514 @@
+Name_of_PG,Location_City,Type_of_property,Furnishing_services,Services_Provided,Number_of_bedrooms,_included,Year_of_build,Distance_from_college,Monthly_rent
+insaan pg,Hardaspur ,apartment,fully furnished,"Wifi,AC Facility",3,yes,2017,0.5,7700
+Khojo,law gate,apartment,unfurnished,Wifi,3,yes,2024,1.5,6500
+gurukrupa pg,law gate,apartment,semi furnished,Wifi,1,no,2023,2,6000
+gurukrupa pg,law gate,apartment,semi furnished,"Wifi, Laundry",1,no,2017,1.5,4200
+kops tower,law gate,pg,fully furnished,"Wifi, Laundry , AC Facility",2,yes,2023,2.5,7000
+gurukrupa pg,law gate,apartment,semi furnished,Wifi,1,no,2016,1,3500
+gurukrupa pg,law gate,apartment,semi furnished,"Wifi, Laundry",1,no,2024,2.5,6300
+gurukrupa pg,law gate,apartment,semi furnished,"Wifi, Laundry",1,no,2017,0.5,4200
+white pearl pg,law gate,apartment,fully furnished,"Wifi, Laundry",1,no,2023,0.5,8800
+siddhaya apartments,law gate,apartment,fully furnished,Wifi,1,no,2022,0.5,5700
+siddhaya apartments,law gate,apartment,fully furnished,Wifi,2,no,2015,2,8400
+preet pg,hardaspur,pg,semi furnished,"Wifi, Laundry",2,yes,2017,1.5,5000
+khojo,law gate,independent house,semi furnished,"Wifi,AC Facility",2,no,2018,2,4500
+jassa pg,phagwara,pg,semi furnished,"Wifi, Laundry , AC Facility",2,no,2021,3.5,5400
+aradhya rooms,hardaspur,apartment,fully furnished,Wifi,3,no,2024,1.5,8000
+gupta pg,phagwara,pg,unfurnished,"Wifi,AC Facility",1,yes,2020,4,5700
+luxury house,law gate,villa,fully furnished,"Laundry , AC Facility",3,yes,2023,1.5,7500
+khozzo,law gate,pg,fully furnished,Wifi ,1,no,2024,1,6500
+preet pg,hardaspur,pg,fully furnished,"Wifi,AC Facility",1,no,2018,2,4700
+khalsha,hardaspur,pg,semi furnished,Wifi,2,no,2015,2,4800
+anandgram,phagwara,pg,semi furnished,"Laundry , Wifi ",2,yes,2018,4,5300
+gondwana,phagwara,independent house,semi furnished,Wifi,2,no,2024,4,6300
+luxary rooms,law gate,pg,semi furnished,Wifi ,1,no,2018,1.5,4500
+guru nanak pura,jalandhar (rama mandi),pg,semi furnished,"Laundry , AC Facility",1,no,2018,3.5,4500
+preet pg,hardaspur,pg,fully furnished,"Wifi,AC Facility",1,yes,2020,1.5,4969
+chhavi pg,law gate,apartment,semi furnished,"Wifi,AC Facility",2,no,2023,2.5,6000
+happy homes,phagwara,independent house,semi furnished,"Laundry , Wifi ",3,no,2018,3,4500
+astha,"jalandhar (rama mandi),",apartment,fully furnished,"Laundry , AC Facility",2,no,2020,6.5,8700
+sunrise residency,hardaspur,independent house,unfurnished,Wifi,1,yes,2022,1.5,6300
+sunrise residency,law gate,villa,fully furnished,"Laundry , AC Facility",3,yes,2018,0.5,7500
+elite stay,jalandhar (rama mandi),pg,semi furnished,"Wifi, Laundry , AC Facility",3,yes,2016,3.5,4700
+cozynest pg,hardaspur,independent house,unfurnished,"Wifi,AC Facility",1,yes,2017,1,4800
+greenview pg,law gate,apartment,unfurnished,"Wifi,AC Facility",2,no,2016,1,3700
+sunrise residency,hardaspur,independent house,semi furnished,"Laundry , AC Facility",2,no,2022,1,5700
+elite stay,law gate,pg,unfurnished,"Wifi, Laundry",3,no,2023,2.5,5800
+cozynest pg,hardaspur,villa,unfurnished,"Laundry , Wifi ",3,yes,2021,0.5,5000
+greenview pg,jalandhar (rama mandi),apartment,semi furnished,Wifi,1,yes,2021,4,6200
+greenview pg,jalandhar (rama mandi),independent house,fully furnished,"Laundry , Wifi ",2,yes,2022,4,6700
+harmony homes,law gate,apartment,fully furnished,"Wifi, Laundry , AC Facility",1,no,2024,0.5,7800
+aspire pg,jalandhar (rama mandi),apartment,semi furnished,"Laundry , Wifi ",3,yes,2018,3.5,5300
+urban living,law gate,villa,semi furnished,"Laundry , Wifi ",2,yes,2021,1.5,5500
+student nest,phagwara,apartment,semi furnished,Wifi ,1,yes,2021,3,6200
+urban living,hardaspur,villa,fully furnished,"Laundry , AC Facility",3,no,2021,0.5,5000
+urban living,phagwara,villa,unfurnished,"Laundry , Wifi ",2,no,2015,3,6000
+comfort cove,hardaspur,apartment,fully furnished,Wifi,3,yes,2018,1,5582
+harmony homes,law gate,villa,semi furnished,Wifi ,3,yes,2020,0.5,7500
+urban living,jalandhar (rama mandi),apartment,unfurnished,Wifi,3,no,2022,3.5,5500
+urban living,law gate,villa,unfurnished,Wifi,1,no,2020,1,5000
+student nest,jalandhar (rama mandi),independent house,fully furnished,Wifi ,2,yes,2018,3.5,5500
+comfort cove,hardaspur,apartment,semi furnished,"Wifi,AC Facility",2,yes,2024,2,4982
+dream residency,law gate,apartment,semi furnished,"Wifi,AC Facility",1,yes,2021,2.5,6200
+sunrise pg,other,independent house,fully furnished,Wifi ,3,no,2024,6,6500
+tranquil abode,hardaspur,apartment,semi furnished,"Wifi,AC Facility",2,yes,2020,1,5500
+comfort cove,jalandhar (rama mandi),apartment,fully furnished,"Wifi,AC Facility",1,yes,2016,3.5,7500
+tranquil abode,law gate,apartment,semi furnished,"Wifi, Laundry , AC Facility",1,yes,2015,2,5600
+student nest,jalandhar (rama mandi),independent house,fully furnished,"Laundry , Wifi ",2,yes,2018,3.5,5500
+tranquil abode,law gate,pg,fully furnished,Wifi,3,no,2015,1,5000
+comfort cove,other,villa,semi furnished,Wifi ,1,yes,2016,5,5000
+harmony homes,jalandhar (rama mandi),apartment,fully furnished,"Wifi, Laundry",1,no,2015,3.5,6300
+student nest,other,villa,unfurnished,Wifi ,2,no,2020,6.5,5000
+aspire pg,other,pg,semi furnished,"Wifi, Laundry , AC Facility",2,no,2015,6,4800
+campus corner,law gate,apartment,semi furnished,"Wifi, Laundry , AC Facility",1,no,2018,0.5,4500
+dream residency,phagwara,pg,fully furnished,Wifi,2,yes,2016,4,4500
+tranquil abode,jalandhar (rama mandi),apartment,semi furnished,"Wifi, Laundry , AC Facility",3,no,2016,3.5,3500
+elite stay,phagwara,villa,fully furnished,"Wifi, Laundry",2,no,2020,3,5000
+elite stay,law gate,pg,unfurnished,Wifi ,3,yes,2020,0.5,5700
+student nest,hardaspur,apartment,semi furnished,Wifi,3,yes,2020,1,5500
+sunrise pg,phagwara,independent house,fully furnished,Wifi ,1,yes,2020,3,5140
+harmony homes,other,independent house,fully furnished,"Wifi, Laundry",3,yes,2020,6.5,5210
+harmony homes,law gate,pg,fully furnished,"Laundry , Wifi ",2,yes,2015,0.5,5800
+harmony homes,jalandhar (rama mandi),villa,unfurnished,Wifi,3,yes,2023,3.5,7500
+student nest,hardaspur,apartment,fully furnished,"Laundry , Wifi ",2,yes,2018,2,6400
+harmony homes,jalandhar (rama mandi),villa,unfurnished,"Wifi, Laundry",2,yes,2022,3.5,5500
+comfort cove,jalandhar (rama mandi),pg,fully furnished,Wifi,2,yes,2016,3.5,4500
+campus corner,jalandhar (rama mandi),villa,unfurnished,Wifi,2,yes,2018,3.5,5500
+campus corner,hardaspur,independent house,fully furnished,Wifi,3,no,2017,1.5,4400
+comfort cove,other,villa,semi furnished,"Laundry , Wifi ",2,yes,2024,5,7500
+aspire pg,phagwara,pg,fully furnished,"Laundry , AC Facility",1,no,2018,4,4700
+campus corner,hardaspur,villa,unfurnished,"Wifi,AC Facility",1,no,2015,2,7500
+elite stay,hardaspur,pg,semi furnished,Wifi,2,yes,2023,1.5,6800
+dream residency,hardaspur,independent house,fully furnished,"Wifi,AC Facility",1,no,2021,1.5,5600
+student nest,jalandhar (rama mandi),apartment,semi furnished,Wifi ,1,yes,2016,4,4700
+comfort cove,law gate,apartment,fully furnished,"Wifi, Laundry",1,yes,2020,1.5,5000
+comfort cove,phagwara,apartment,fully furnished,Wifi,3,no,2018,4,5700
+dream residency,law gate,apartment,semi furnished,Wifi,1,yes,2020,2.5,5500
+sunrise pg,jalandhar (rama mandi),villa,fully furnished,"Wifi,AC Facility",2,yes,2023,4,5000
+dream residency,law gate,pg,unfurnished,Wifi,1,yes,2016,1,4500
+dream residency,other,pg,semi furnished,"Laundry , AC Facility",3,yes,2017,5.5,5000
+tranquil abode,hardaspur,independent house,semi furnished,"Wifi, Laundry , AC Facility",2,yes,2015,1,5600
+campus corner,jalandhar (rama mandi),villa,semi furnished,Wifi,1,yes,2017,3.5,5000
+sunrise pg,hardaspur,villa,fully furnished,"Wifi,AC Facility",2,yes,2023,1,7500
+sunrise pg,other,apartment,semi furnished,"Wifi,AC Facility",1,no,2016,5.5,3500
+comfort cove,law gate,independent house,semi furnished,"Wifi, Laundry",2,no,2017,2.5,4200
+tranquil abode,law gate,independent house,unfurnished,Wifi,1,no,2022,2.5,5500
+dream residency,law gate,pg,unfurnished,Wifi,2,no,2021,0.5,5200
+aspire pg,jalandhar (rama mandi),villa,fully furnished,"Laundry , Wifi ",3,yes,2021,3.5,6000
+dream residency,jalandhar (rama mandi),apartment,fully furnished,"Wifi, Laundry",2,yes,2024,3.5,5940
+urban living,other,pg,fully furnished,Wifi,2,no,2024,6.5,6500
+elite stay,hardaspur,independent house,unfurnished,"Wifi, Laundry , AC Facility",3,no,2024,1,4082
+sunrise pg,hardaspur,pg,unfurnished,Wifi,2,no,2016,1.5,3700
+elite stay,hardaspur,villa,fully furnished,Wifi,3,no,2016,1,5500
+elite stay,jalandhar (rama mandi),pg,unfurnished,"Laundry , Wifi ",2,yes,2022,3.5,6300
+student nest,other,apartment,fully furnished,Wifi,2,yes,2024,5,7000
+harmony homes,other,pg,unfurnished,"Laundry , Wifi ",1,no,2015,5,4600
+urban living,law gate,independent house,fully furnished,Wifi,2,yes,2024,0.5,7300
+dream residency,hardaspur,pg,fully furnished,"Wifi, Laundry , AC Facility",2,yes,2022,0.5,6700
+harmony homes,other,pg,fully furnished,"Wifi,AC Facility",3,yes,2024,5.5,7300
+campus corner,law gate,independent house,semi furnished,"Wifi, Laundry",3,yes,2021,0.5,6200
+sunrise pg,jalandhar (rama mandi),pg,fully furnished,"Wifi, Laundry , AC Facility",2,yes,2018,3.5,5500
+campus corner,jalandhar (rama mandi),villa,semi furnished,"Laundry , Wifi ",3,yes,2018,4,7500
+tranquil abode,phagwara,apartment,unfurnished,"Wifi,AC Facility",1,yes,2022,3,6300
+urban living,hardaspur,independent house,fully furnished,Wifi,3,no,2018,1.5,4700
+elite stay,law gate,villa,semi furnished,Wifi,2,yes,2023,2,7500
+sunrise pg,other,apartment,unfurnished,"Laundry , Wifi ",1,yes,2016,6,4500
+campus corner,jalandhar (rama mandi),pg,unfurnished,Wifi,3,no,2021,3.5,5200
+sunrise pg,hardaspur,pg,semi furnished,"Wifi,AC Facility",3,yes,2020,0.5,5500
+sunrise pg,phagwara,villa,fully furnished,"Wifi, Laundry",1,yes,2021,3,7000
+harmony homes,phagwara,villa,semi furnished,Wifi ,1,no,2016,3.5,6500
+harmony homes,hardaspur,independent house,fully furnished,"Wifi, Laundry",3,no,2017,2,4400
+harmony homes,other,pg,unfurnished,Wifi,2,no,2016,6,3700
+aspire pg,jalandhar (rama mandi),apartment,unfurnished,Wifi,1,no,2015,3.5,4600
+tranquil abode,other,independent house,semi furnished,"Laundry , Wifi ",1,yes,2020,5,5500
+sunrise pg,jalandhar (rama mandi),villa,unfurnished,Wifi,2,no,2022,3.5,5000
+tranquil abode,phagwara,villa,semi furnished,Wifi,1,yes,2022,4,7000
+dream residency,jalandhar (rama mandi),villa,fully furnished,"Laundry , AC Facility",2,yes,2016,3.5,7000
+student nest,phagwara,apartment,fully furnished,"Laundry , AC Facility",1,yes,2017,3,6700
+tranquil abode,phagwara,apartment,unfurnished,"Wifi, Laundry , AC Facility",2,yes,2016,4,4500
+sunrise pg,other,independent house,unfurnished,Wifi,2,no,2016,5.5,3700
+urban living,phagwara,independent house,unfurnished,Wifi,2,yes,2016,3,4500
+campus corner,other,pg,unfurnished,Wifi ,3,yes,2015,6,5400
+urban living,phagwara,villa,fully furnished,Wifi,1,yes,2022,3,7500
+elite stay,law gate,independent house,unfurnished,Wifi,1,yes,2016,2,4500
+comfort cove,jalandhar (rama mandi),pg,fully furnished,"Laundry , Wifi ",2,no,2020,3.5,5300
+campus corner,law gate,pg,unfurnished,Wifi,3,no,2022,0.5,5500
+sunrise pg,phagwara,independent house,unfurnished,Wifi,3,yes,2016,3,4500
+urban living,other,pg,unfurnished,"Laundry , Wifi ",2,no,2022,5.5,5500
+campus corner,other,independent house,semi furnished,Wifi,1,no,2018,6,4500
+aspire pg,law gate,independent house,fully furnished,"Wifi,AC Facility",2,yes,2024,2.5,7300
+urban life pg,hardaspur,apartment,semi furnished,"Wifi, Laundry",1,yes,2017,1.5,5000
+campus life pg,jalandhar (rama mandi),villa,fully furnished,"Laundry , AC Facility",1,yes,2023,4,5000
+modern dwell,hardaspur,villa,semi furnished,Wifi,2,yes,2020,1.5,5000
+stellar stays,jalandhar (rama mandi),pg,unfurnished,"Laundry , AC Facility",2,yes,2018,3.5,5829
+oasis living,hardaspur,villa,unfurnished,Wifi,3,no,2024,0.5,7500
+the social nest,phagwara,apartment,unfurnished,Wifi,1,yes,2021,4,6000
+student nest,phagwara,independent house,fully furnished,"Laundry , AC Facility",3,no,2022,4,5500
+white pearl pg,other,villa,fully furnished,Wifi,3,yes,2016,7,7000
+shelter plus,phagwara,apartment,semi furnished,Wifi,2,yes,2020,3.5,5500
+dream catcher pg,jalandhar (rama mandi),villa,unfurnished,Wifi,2,no,2016,3.5,5500
+bright living,jalandhar (rama mandi),villa,semi furnished,"Wifi,AC Facility",1,yes,2021,3.5,5500
+safe haven pg,hardaspur,pg,unfurnished,Wifi,3,yes,2020,0.5,5700
+majestic pg,other,apartment,fully furnished,"Wifi, Laundry , AC Facility",2,yes,2017,7,4782
+bliss residency,law gate,apartment,unfurnished,"Laundry , Wifi ",3,no,2022,2.5,5500
+nova pg,phagwara,independent house,fully furnished,"Laundry , AC Facility",3,yes,2015,3.5,5800
+the dorm house,other,apartment,semi furnished,"Laundry , AC Facility",2,no,2023,5.5,6000
+homeaway pg,law gate,pg,unfurnished,"Wifi,AC Facility",1,no,2015,0.5,4600
+smartcrib,jalandhar (rama mandi),villa,unfurnished,Wifi,3,yes,2018,4,5500
+staysmart pg,law gate,villa,semi furnished,Wifi,2,no,2021,1.5,7500
+silver nest,hardaspur,pg,semi furnished,Wifi ,2,no,2018,1,4500
+serene stays,hardaspur,villa,semi furnished,"Laundry , Wifi ",1,yes,2021,1.5,5000
+safestay pg,other,pg,unfurnished,"Wifi, Laundry",1,yes,2018,6,3601
+silver nest,jalandhar (rama mandi),independent house,unfurnished,"Wifi, Laundry",1,no,2016,3.5,3700
+safe haven pg,jalandhar (rama mandi),independent house,fully furnished,"Wifi, Laundry",1,no,2022,3.5,5500
+the hangout pg,jalandhar (rama mandi),pg,semi furnished,"Laundry , AC Facility",1,yes,2020,3.5,5500
+infinity stays,phagwara,pg,semi furnished,"Laundry , AC Facility",3,yes,2022,4,6500
+homeaway pg,hardaspur,pg,unfurnished,"Wifi, Laundry",1,no,2023,2,5800
+urban roots pg,law gate,pg,fully furnished,Wifi,1,yes,2022,1,6700
+chill house pg,jalandhar (rama mandi),villa,unfurnished,Wifi,3,no,2021,3.5,5000
+nova pg,law gate,pg,unfurnished,Wifi,3,no,2020,2,4500
+silver nest,hardaspur,pg,unfurnished,"Wifi,AC Facility",1,yes,2022,0.5,6300
+smartcrib,jalandhar (rama mandi),villa,semi furnished,"Laundry , AC Facility",1,no,2024,3.5,6000
+staysmart pg,jalandhar (rama mandi),apartment,unfurnished,"Laundry , Wifi ",1,yes,2020,3.5,5700
+the dorm house,phagwara,villa,semi furnished,"Wifi, Laundry",2,no,2022,3,7000
+neon pg,hardaspur,apartment,fully furnished,Wifi,3,no,2020,1,7000
+stellar stays,other,independent house,unfurnished,"Wifi,AC Facility",2,no,2024,5,5841
+bunk & bed pg,other,pg,semi furnished,"Wifi, Laundry",1,no,2017,5.5,4200
+budget nest,phagwara,apartment,semi furnished,"Wifi, Laundry",1,yes,2024,3,5411
+alpha stay,other,apartment,semi furnished,Wifi ,1,no,2017,7,4200
+tidy nest,jalandhar (rama mandi),apartment,semi furnished,"Laundry , Wifi ",3,no,2017,3.5,4200
+lifestyle pg,hardaspur,apartment,unfurnished,"Laundry , AC Facility",2,no,2022,1.5,5500
+happy nest,hardaspur,apartment,unfurnished,Wifi,2,no,2017,0.5,4000
+cityscape pg,phagwara,pg,fully furnished,Wifi,2,no,2021,4,5600
+zenith living,other,pg,semi furnished,Wifi,2,no,2017,5.5,4200
+liveasy pg,hardaspur,pg,fully furnished,"Wifi, Laundry",3,no,2023,0.5,6200
+skyline pg,law gate,apartment,unfurnished,"Laundry , Wifi ",1,no,2024,1.5,3907
+royal stay,phagwara,pg,unfurnished,"Laundry , AC Facility",2,no,2024,4,5735
+anchor pg,hardaspur,pg,fully furnished,Wifi,2,yes,2015,0.5,5800
+happy nest,phagwara,apartment,unfurnished,Wifi,2,yes,2016,3,4500
+oakwood residency,jalandhar (rama mandi),pg,fully furnished,Wifi ,2,yes,2020,3.5,5087
+zenith living,phagwara,villa,unfurnished,"Wifi, Laundry , AC Facility",3,yes,2021,3,5500
+dream residency,hardaspur,villa,fully furnished,"Wifi, Laundry",1,yes,2017,1.5,7500
+harmony homes,phagwara,apartment,fully furnished,"Wifi, Laundry",2,no,2017,4,5800
+neon pg,phagwara,apartment,semi furnished,"Laundry , Wifi ",1,no,2023,3.5,6000
+shelter inn,jalandhar (rama mandi),apartment,fully furnished,Wifi,1,yes,2024,3.5,7400
+dream catcher pg,jalandhar (rama mandi),independent house,unfurnished,Wifi,3,no,2024,4,4714
+king's stay,hardaspur,independent house,semi furnished,"Wifi, Laundry",1,no,2017,0.5,4200
+harmony homes,law gate,apartment,semi furnished,Wifi ,2,yes,2024,0.5,4926
+safe haven pg,hardaspur,apartment,unfurnished,"Wifi, Laundry",1,yes,2023,1,6600
+king's stay,jalandhar (rama mandi),independent house,unfurnished,"Laundry , Wifi ",1,no,2017,4,4000
+skyline pg,hardaspur,independent house,fully furnished,Wifi,1,yes,2023,0.5,7000
+majestic pg,hardaspur,villa,semi furnished,"Wifi, Laundry",3,no,2022,0.5,6000
+tranquil abode,hardaspur,apartment,fully furnished,"Laundry , Wifi ",3,yes,2021,1,5500
+rainbow residency,other,pg,semi furnished,"Laundry , Wifi ",1,no,2022,5.5,5700
+budget nest,jalandhar (rama mandi),pg,fully furnished,"Wifi, Laundry",2,yes,2020,3.5,4341
+smartcrib,jalandhar (rama mandi),villa,fully furnished,"Wifi, Laundry",2,no,2022,3.5,5000
+cityscape pg,law gate,villa,semi furnished,"Laundry , Wifi ",3,no,2016,1,6500
+silverline homes,other,villa,semi furnished,"Wifi, Laundry",1,yes,2017,5,6500
+study inn,phagwara,pg,unfurnished,Wifi,2,no,2022,3.5,5500
+urban ease pg,phagwara,villa,fully furnished,Wifi ,1,yes,2021,3,7000
+golden stay,law gate,apartment,semi furnished,Wifi,3,no,2015,1,4800
+bright living,hardaspur,independent house,semi furnished,"Wifi, Laundry",1,no,2024,1,6300
+student shelter,law gate,villa,semi furnished,Wifi,1,no,2018,1.5,5000
+cloud nine pg,other,apartment,fully furnished,Wifi,1,yes,2020,6.5,5700
+elite stay,phagwara,apartment,unfurnished,"Wifi, Laundry , AC Facility",2,no,2023,4,5800
+bunk & bed pg,phagwara,independent house,unfurnished,"Wifi, Laundry , AC Facility",1,no,2017,3,4000
+silverline homes,law gate,apartment,fully furnished,"Laundry , AC Facility",1,yes,2020,1,8500
+sunrise pg,phagwara,apartment,unfurnished,Wifi,3,no,2024,3,4673
+student shelter,law gate,villa,unfurnished,"Wifi, Laundry , AC Facility",1,no,2018,1,6000
+smart stay,hardaspur,pg,fully furnished,Wifi,1,yes,2021,0.5,6400
+connect pg,law gate,villa,unfurnished,"Laundry , Wifi ",3,yes,2017,1,7500
+the happy stay,phagwara,apartment,unfurnished,"Wifi, Laundry , AC Facility",2,yes,2016,4,4500
+skyline pg,jalandhar (rama mandi),apartment,semi furnished,"Wifi,AC Facility",1,no,2017,4,4200
+student suites,hardaspur,pg,fully furnished,Wifi,3,no,2020,1,5300
+urban ease pg,hardaspur,apartment,semi furnished,Wifi,2,yes,2020,1,5500
+tranquil abode,phagwara,villa,fully furnished,"Wifi, Laundry , AC Facility",1,yes,2023,3,5500
+nova pg,other,villa,fully furnished,Wifi,1,no,2018,6,6000
+galaxy pg,law gate,independent house,semi furnished,"Wifi, Laundry",2,no,2022,1,5700
+smart stay,phagwara,independent house,semi furnished,"Wifi, Laundry",2,no,2018,3.5,4500
+nextgen pg,hardaspur,villa,fully furnished,Wifi ,2,yes,2023,1.5,6500
+tidy nest,law gate,apartment,unfurnished,"Wifi, Laundry",2,no,2020,2.5,4500
+stellar stays,hardaspur,villa,semi furnished,Wifi,2,yes,2016,2,5500
+infinity stays,law gate,pg,fully furnished,Wifi ,1,yes,2022,1,6700
+pearl nest,phagwara,pg,fully furnished,Wifi ,1,no,2023,3,6200
+urban ease pg,hardaspur,villa,unfurnished,"Wifi, Laundry",1,yes,2018,1.5,7000
+smartcrib,law gate,independent house,semi furnished,"Wifi, Laundry",1,no,2020,1.5,5104
+bright living,other,independent house,semi furnished,"Wifi, Laundry",3,no,2018,6,4500
+affordable abode,other,apartment,semi furnished,Wifi ,1,no,2022,6,5700
+value pg,hardaspur,independent house,unfurnished,"Wifi,AC Facility",2,no,2016,1,3700
+king's stay,other,independent house,unfurnished,"Wifi, Laundry",2,yes,2021,5.5,6000
+affordable abode,hardaspur,pg,fully furnished,"Wifi, Laundry , AC Facility",3,no,2018,2,4700
+zenith living,other,villa,unfurnished,Wifi,3,no,2018,5,5000
+cloud nine pg,hardaspur,apartment,fully furnished,Wifi,1,no,2017,1.5,6500
+budget nest,other,independent house,unfurnished,Wifi ,2,no,2023,6.5,5800
+evergreen homes,jalandhar (rama mandi),villa,fully furnished,Wifi,1,yes,2024,3.5,7500
+urban life pg,jalandhar (rama mandi),pg,semi furnished,Wifi,1,yes,2017,3.5,5000
+ambrosia stays,jalandhar (rama mandi),pg,semi furnished,"Wifi, Laundry",3,no,2021,3.5,5400
+safe haven pg,hardaspur,pg,unfurnished,"Wifi, Laundry , AC Facility",2,yes,2022,2,6300
+galaxy pg,hardaspur,pg,unfurnished,"Wifi, Laundry , AC Facility",3,yes,2018,1.5,3734
+alpha stay,other,apartment,fully furnished,"Wifi, Laundry",1,no,2015,6.5,7300
+zen space pg,law gate,pg,unfurnished,Wifi,3,yes,2016,1.5,4500
+white pearl pg,phagwara,pg,semi furnished,"Laundry , AC Facility",3,no,2016,3,3500
+staysmart pg,hardaspur,villa,semi furnished,"Laundry , AC Facility",2,yes,2022,1,5000
+aspire pg,law gate,apartment,fully furnished,Wifi,1,yes,2021,2,7600
+vista pg,phagwara,pg,fully furnished,Wifi,2,no,2022,3,5500
+cloud nine pg,hardaspur,independent house,unfurnished,"Wifi,AC Facility",1,yes,2018,2,5662
+luxe lodge,other,apartment,fully furnished,"Laundry , Wifi ",1,yes,2016,5.5,7400
+safe haven pg,phagwara,pg,semi furnished,"Wifi, Laundry",2,yes,2024,4,4255
+oasis living,jalandhar (rama mandi),independent house,unfurnished,"Laundry , AC Facility",2,no,2022,4,5500
+the hangout pg,other,independent house,semi furnished,"Wifi,AC Facility",1,no,2020,7,4017
+shelter inn,hardaspur,pg,unfurnished,Wifi,1,yes,2016,0.5,4500
+student nest,phagwara,pg,fully furnished,"Wifi,AC Facility",2,no,2018,3,4700
+bright living,law gate,apartment,semi furnished,"Wifi,AC Facility",1,yes,2018,2.5,5300
+modern dwell,phagwara,villa,semi furnished,"Wifi, Laundry , AC Facility",2,no,2017,4,6000
+nova pg,hardaspur,apartment,semi furnished,"Laundry , AC Facility",1,yes,2021,1.5,6200
+nextgen pg,phagwara,villa,semi furnished,Wifi,3,yes,2024,3,5000
+spark living,hardaspur,independent house,semi furnished,Wifi,1,yes,2017,1,5000
+spark living,other,apartment,unfurnished,Wifi,2,no,2017,5,4000
+student suites,hardaspur,villa,semi furnished,Wifi,3,yes,2023,0.5,6500
+harmony homes,other,villa,semi furnished,Wifi,2,yes,2016,6,5000
+white pearl pg,law gate,independent house,semi furnished,"Wifi,AC Facility",2,yes,2015,2,5600
+harmony homes,phagwara,pg,unfurnished,Wifi,1,no,2021,4,5200
+tranquil abode,hardaspur,villa,fully furnished,Wifi,1,no,2022,2,7500
+haven homes,jalandhar (rama mandi),independent house,semi furnished,"Laundry , Wifi ",2,no,2024,3.5,6300
+urban living,hardaspur,pg,unfurnished,"Laundry , AC Facility",2,yes,2018,0.5,5961
+cityscape pg,law gate,pg,fully furnished,Wifi,2,yes,2015,1,5800
+cloud nine pg,other,apartment,unfurnished,"Wifi, Laundry",3,no,2016,5,3700
+lifestyle pg,jalandhar (rama mandi),apartment,fully furnished,Wifi,1,no,2020,3.5,7500
+nest inn,law gate,pg,fully furnished,"Laundry , AC Facility",1,yes,2018,0.5,5500
+chill house pg,law gate,apartment,unfurnished,"Wifi, Laundry",2,yes,2024,0.5,6500
+value pg,law gate,independent house,unfurnished,Wifi,2,no,2018,2.5,4300
+safestay pg,law gate,apartment,unfurnished,"Wifi, Laundry",3,no,2017,0.5,4000
+cosy corner,jalandhar (rama mandi),independent house,unfurnished,Wifi ,2,no,2020,3.5,4500
+sunrise pg,hardaspur,apartment,unfurnished,"Wifi, Laundry",3,no,2018,0.5,4300
+liveasy pg,hardaspur,pg,semi furnished,Wifi,1,yes,2020,1,5500
+bright living,other,villa,semi furnished,"Laundry , Wifi ",2,no,2017,6,5500
+urban ease pg,hardaspur,apartment,fully furnished,Wifi,1,no,2024,1,8500
+connect pg,jalandhar (rama mandi),villa,semi furnished,"Wifi, Laundry",3,no,2017,3.5,7000
+royal stay,other,independent house,fully furnished,"Wifi, Laundry , AC Facility",1,no,2015,5.5,5000
+tidy nest,other,pg,semi furnished,"Laundry , Wifi ",1,yes,2018,7,5300
+anchor pg,hardaspur,independent house,unfurnished,Wifi,1,no,2023,2,5800
+friendly pg,other,apartment,fully furnished,"Wifi, Laundry",2,no,2018,6.5,5400
+cosy corner,jalandhar (rama mandi),independent house,unfurnished,Wifi,1,no,2021,3.5,5200
+sunrise pg,jalandhar (rama mandi),villa,unfurnished,Wifi,2,yes,2023,3.5,5500
+student hub,jalandhar (rama mandi),pg,semi furnished,"Wifi, Laundry , AC Facility",3,no,2022,3.5,5700
+safe haven pg,law gate,pg,semi furnished,"Laundry , AC Facility",3,yes,2016,1,4700
+hostel hive,other,pg,unfurnished,"Wifi, Laundry",1,no,2020,5.5,4500
+neon pg,other,apartment,semi furnished,"Wifi, Laundry",3,no,2015,5,4800
+nest inn,jalandhar (rama mandi),pg,fully furnished,Wifi ,1,no,2021,3.5,5600
+tranquil abode,law gate,independent house,semi furnished,Wifi,3,no,2024,1,6300
+the pg spot,phagwara,independent house,unfurnished,"Wifi, Laundry",2,yes,2015,3,5400
+evergreen homes,other,pg,unfurnished,"Laundry , AC Facility",2,no,2018,7,4300
+oakwood residency,jalandhar (rama mandi),apartment,fully furnished,Wifi,1,yes,2023,3.5,7300
+royal stay,law gate,villa,fully furnished,Wifi,2,no,2015,2,6000
+white pearl pg,phagwara,pg,unfurnished,Wifi,2,no,2018,3,4300
+hygge homes,hardaspur,apartment,unfurnished,"Wifi,AC Facility",1,no,2023,1.5,5800
+pearl nest,law gate,apartment,fully furnished,"Wifi,AC Facility",1,no,2018,0.5,7800
+clever stay,other,villa,unfurnished,Wifi ,1,no,2023,5,6500
+urban roots pg,other,villa,fully furnished,Wifi,2,yes,2021,5.5,7000
+the social nest,phagwara,pg,fully furnished,"Laundry , AC Facility",2,no,2018,3,4700
+silver nest,phagwara,apartment,semi furnished,"Wifi, Laundry , AC Facility",2,no,2021,3,5400
+sage stay,other,apartment,unfurnished,Wifi,2,yes,2024,5,6500
+hostel hive,other,independent house,semi furnished,"Wifi,AC Facility",3,yes,2024,5.5,5467
+staysmart pg,jalandhar (rama mandi),pg,unfurnished,Wifi,2,no,2017,3.5,4000
+aspire pg,law gate,villa,fully furnished,Wifi,2,no,2017,1,5000
+spark living,phagwara,apartment,semi furnished,"Wifi, Laundry",2,yes,2022,3,6500
+oakwood residency,other,villa,semi furnished,"Laundry , Wifi ",3,yes,2024,5.5,6000
+evergreen homes,other,apartment,unfurnished,"Wifi,AC Facility",1,no,2024,5.5,3697
+harmony homes,hardaspur,independent house,fully furnished,"Laundry , AC Facility",1,no,2021,1,5600
+evergreen homes,phagwara,apartment,unfurnished,Wifi,1,yes,2021,3.5,6000
+oasis living,hardaspur,independent house,fully furnished,"Laundry , Wifi ",3,yes,2018,1,5500
+campus corner,phagwara,pg,semi furnished,Wifi ,1,no,2016,3,3500
+zenith living,phagwara,pg,fully furnished,"Wifi, Laundry , AC Facility",2,yes,2020,4,4739
+happy nest,other,apartment,unfurnished,"Laundry , AC Facility",2,yes,2020,7,5700
+vista pg,hardaspur,villa,fully furnished,"Wifi,AC Facility",3,yes,2020,1,7500
+lifestyle pg,law gate,villa,semi furnished,Wifi,1,yes,2018,1.5,7000
+serene stays,law gate,apartment,unfurnished,"Wifi, Laundry",2,no,2023,1.5,5800
+elite stay,jalandhar (rama mandi),independent house,unfurnished,Wifi,1,yes,2020,3.5,5700
+nextgen pg,jalandhar (rama mandi),independent house,semi furnished,"Wifi,AC Facility",1,no,2023,3.5,6000
+zen space pg,jalandhar (rama mandi),independent house,semi furnished,Wifi ,3,no,2018,3.5,4500
+neon pg,phagwara,pg,semi furnished,Wifi,1,no,2018,3.5,4500
+the happy stay,law gate,villa,fully furnished,"Laundry , AC Facility",3,no,2016,1.5,7000
+campus life pg,jalandhar (rama mandi),apartment,unfurnished,"Wifi, Laundry",1,yes,2023,3.5,6600
+pearl nest,phagwara,villa,unfurnished,"Laundry , Wifi ",2,no,2023,3,6500
+staysmart pg,phagwara,apartment,unfurnished,"Laundry , AC Facility",3,yes,2021,3,6000
+metro pg,hardaspur,apartment,semi furnished,"Laundry , AC Facility",1,yes,2022,1,6500
+urban living,phagwara,villa,fully furnished,"Laundry , AC Facility",2,yes,2018,3,6000
+maple living,law gate,independent house,unfurnished,Wifi,3,yes,2020,1,5700
+anchor pg,hardaspur,independent house,fully furnished,Wifi,2,yes,2016,1,4500
+neon pg,jalandhar (rama mandi),independent house,semi furnished,"Wifi, Laundry",2,no,2021,3.5,5400
+connect pg,jalandhar (rama mandi),apartment,unfurnished,"Wifi, Laundry",3,yes,2021,3.5,6000
+city comfort pg,hardaspur,independent house,fully furnished,"Wifi, Laundry",2,no,2018,1.5,4700
+metro nest,jalandhar (rama mandi),independent house,semi furnished,"Wifi, Laundry , AC Facility",2,yes,2015,3.5,5600
+cityscape pg,jalandhar (rama mandi),apartment,fully furnished,"Wifi, Laundry",3,yes,2021,4,6300
+infinity stays,law gate,villa,fully furnished,Wifi,2,no,2015,1,7000
+stellar stays,hardaspur,apartment,unfurnished,"Laundry , AC Facility",2,yes,2018,0.5,3673
+cloudstay pg,law gate,pg,semi furnished,"Wifi,AC Facility",1,no,2023,2.5,6000
+lavender stay,phagwara,pg,unfurnished,"Wifi,AC Facility",1,no,2024,3,4671
+budget nest,hardaspur,villa,semi furnished,Wifi,1,yes,2017,0.5,6500
+crescent pg,hardaspur,pg,semi furnished,Wifi ,2,yes,2015,2,5600
+urban roots pg,other,pg,unfurnished,Wifi,1,yes,2023,5,6600
+neon pg,jalandhar (rama mandi),pg,unfurnished,"Wifi, Laundry",2,yes,2020,4,5700
+the social nest,jalandhar (rama mandi),apartment,unfurnished,"Wifi, Laundry",1,yes,2016,3.5,4500
+oasis pg,hardaspur,apartment,fully furnished,"Laundry , AC Facility",1,no,2023,2,5743
+anchor pg,phagwara,villa,unfurnished,Wifi,3,no,2017,3,7500
+silverline homes,law gate,villa,fully furnished,"Wifi, Laundry , AC Facility",2,no,2015,2.5,5000
+hostel hive,law gate,pg,unfurnished,"Wifi,AC Facility",1,yes,2016,2,4500
+serene homes,other,independent house,fully furnished,Wifi,3,yes,2021,5,6400
+luxe lodge,phagwara,villa,unfurnished,Wifi ,1,no,2017,3.5,7500
+golden stay,phagwara,pg,semi furnished,Wifi ,1,yes,2022,3.5,6500
+harmony pg,phagwara,independent house,unfurnished,"Wifi, Laundry , AC Facility",3,yes,2024,3,6500
+nova nest,hardaspur,apartment,fully furnished,"Laundry , Wifi ",2,no,2023,1,7500
+bliss homes,other,pg,fully furnished,"Wifi, Laundry",1,no,2024,6.5,6500
+zenith pg,jalandhar (rama mandi),apartment,semi furnished,"Wifi, Laundry , AC Facility",2,no,2023,4,6000
+greenspace living,phagwara,apartment,fully furnished,"Wifi, Laundry , AC Facility",1,no,2023,3,5000
+eden residency,other,pg,unfurnished,"Laundry , Wifi ",3,yes,2024,5.5,6500
+happy haven,jalandhar (rama mandi),apartment,unfurnished,"Wifi,AC Facility",2,no,2020,3.5,4500
+shelter plus,phagwara,villa,fully furnished,"Wifi,AC Facility",2,yes,2018,3,5500
+blue nest pg,law gate,villa,unfurnished,"Wifi,AC Facility",1,no,2018,1,6500
+zen space pg,jalandhar (rama mandi),villa,fully furnished,"Laundry , Wifi ",3,yes,2020,4,6000
+pg paradise,jalandhar (rama mandi),independent house,fully furnished,Wifi,1,no,2022,4,5500
+valley pg,jalandhar (rama mandi),apartment,unfurnished,Wifi,1,yes,2016,3.5,4500
+opal residency,phagwara,apartment,semi furnished,Wifi,3,no,2024,3.5,6300
+urban pod,phagwara,pg,unfurnished,"Wifi, Laundry , AC Facility",1,no,2017,3,4000
+serene homes,law gate,independent house,fully furnished,"Wifi, Laundry",2,yes,2017,2.5,5200
+anchor pg,jalandhar (rama mandi),villa,semi furnished,Wifi,2,yes,2018,3.5,7500
+urban nest,jalandhar (rama mandi),apartment,fully furnished,Wifi,2,no,2015,4,7200
+mint house,hardaspur,villa,unfurnished,"Laundry , Wifi ",2,no,2015,0.5,5000
+green valley stay,jalandhar (rama mandi),villa,fully furnished,"Wifi, Laundry",1,yes,2024,4,6500
+ambrosia stays,hardaspur,pg,fully furnished,Wifi ,2,no,2015,0.5,5000
+oasis pg,other,apartment,fully furnished,Wifi,2,yes,2020,5,7400
+metro pg,law gate,independent house,fully furnished,"Wifi, Laundry",3,no,2021,1,5600
+value pg,phagwara,independent house,semi furnished,Wifi,2,yes,2023,3,6800
+elite stay,hardaspur,independent house,unfurnished,"Laundry , AC Facility",1,yes,2022,2,6300
+opal residency,phagwara,apartment,fully furnished,"Wifi, Laundry , AC Facility",3,yes,2023,4,6700
+valley pg,hardaspur,apartment,unfurnished,Wifi ,1,no,2024,1,5635
+study inn,phagwara,independent house,fully furnished,"Laundry , AC Facility",3,yes,2024,3.5,7300
+rainbow residency,other,pg,semi furnished,Wifi,1,no,2015,7,4800
+blue nest pg,phagwara,pg,unfurnished,Wifi,3,yes,2016,3,4500
+galaxy pg,other,pg,fully furnished,"Wifi, Laundry , AC Facility",1,no,2016,5.5,4107
+good vibes stay,jalandhar (rama mandi),independent house,fully furnished,"Wifi,AC Facility",3,yes,2020,3.5,5431
+maple living,other,villa,fully furnished,"Wifi,AC Facility",3,no,2021,5,5000
+serene stays,hardaspur,pg,unfurnished,"Laundry , AC Facility",2,no,2021,0.5,5200
+brightway pg,law gate,independent house,semi furnished,"Wifi, Laundry",3,no,2024,0.5,6300
+harmony homes,hardaspur,pg,semi furnished,Wifi,2,no,2021,0.5,5400
+crescent pg,hardaspur,independent house,unfurnished,"Wifi, Laundry",3,yes,2016,1,4500
+luxe lodge,phagwara,pg,fully furnished,"Laundry , AC Facility",1,no,2022,3,5500
+dream stay,other,villa,fully furnished,Wifi,1,yes,2016,6,5500
+sunrise pg,other,pg,fully furnished,Wifi,3,no,2023,6.5,6200
+clever stay,jalandhar (rama mandi),pg,semi furnished,"Wifi, Laundry",1,no,2017,3.5,4200
+metro pg,hardaspur,apartment,fully furnished,Wifi,1,no,2022,0.5,6400
+opal residency,other,independent house,unfurnished,"Wifi, Laundry",3,no,2020,5.5,4500
+harmony hideout,phagwara,apartment,fully furnished,"Wifi, Laundry",2,yes,2015,3,6700
+haven stay,phagwara,independent house,fully furnished,Wifi,3,no,2017,3,4400
+spark living,jalandhar (rama mandi),apartment,semi furnished,"Laundry , Wifi ",2,no,2023,3.5,6000
+cloud pg,law gate,apartment,unfurnished,Wifi,1,yes,2016,1,4500
+comfy crib,jalandhar (rama mandi),villa,semi furnished,Wifi,2,no,2015,4,6000
+metro pg,phagwara,independent house,unfurnished,"Laundry , Wifi ",2,yes,2020,3,5700
+white lotus pg,phagwara,pg,semi furnished,"Laundry , Wifi ",2,no,2015,3.5,4800
+smartcrib,other,apartment,fully furnished,Wifi,1,yes,2015,5.5,8500
+evergreen homes,law gate,pg,fully furnished,"Wifi, Laundry",2,no,2023,1,6200
+comfy crib,phagwara,pg,fully furnished,"Laundry , AC Facility",3,yes,2024,4,7300
+urban living,other,villa,unfurnished,"Wifi,AC Facility",3,yes,2020,6,6500
+modern dwell,other,villa,unfurnished,"Laundry , Wifi ",1,yes,2024,6.5,7000
+white lotus pg,other,pg,semi furnished,"Wifi, Laundry",2,no,2022,5.5,5700
+starlight pg,law gate,villa,fully furnished,Wifi ,1,yes,2017,1.5,6500
+oakwood residency,hardaspur,independent house,fully furnished,Wifi,2,yes,2018,1.5,5500
+skyline pg,hardaspur,pg,fully furnished,Wifi ,3,yes,2022,1.5,6700
+rainbow residency,other,independent house,semi furnished,"Wifi, Laundry",2,yes,2023,6,6800
+student shelter,other,pg,semi furnished,"Laundry , AC Facility",1,yes,2020,5.5,5500
+happy haven,other,pg,semi furnished,"Laundry , AC Facility",2,no,2017,5.5,4200
+campus corner,hardaspur,villa,semi furnished,"Wifi, Laundry",1,no,2017,1.5,5000
+homeaway pg,hardaspur,apartment,fully furnished,Wifi ,2,yes,2016,1,6400
+ambrosia stays,phagwara,independent house,fully furnished,"Wifi,AC Facility",2,no,2016,4,3897
+the happy stay,jalandhar (rama mandi),pg,semi furnished,"Wifi,AC Facility",2,yes,2015,3.5,5600
+skyline pg,law gate,villa,semi furnished,Wifi ,2,yes,2016,2,6000
+bunk & bed pg,phagwara,villa,fully furnished,Wifi,2,no,2024,3.5,5000
+royal comfort,jalandhar (rama mandi),pg,unfurnished,Wifi,3,no,2020,3.5,4500
+comfort cove,hardaspur,villa,unfurnished,Wifi,3,yes,2020,1.5,7000
+opal residency,hardaspur,apartment,fully furnished,"Wifi, Laundry , AC Facility",1,yes,2017,1.5,7200
+tidy nest,jalandhar (rama mandi),apartment,unfurnished,Wifi,2,yes,2023,4,6600
+zenith pg,phagwara,apartment,semi furnished,"Wifi,AC Facility",2,yes,2018,3,5300
+oasis living,other,apartment,unfurnished,"Wifi, Laundry",3,no,2023,5.5,5800
+cloudstay pg,law gate,apartment,semi furnished,Wifi ,2,yes,2018,0.5,5300
+safe haven pg,other,apartment,fully furnished,"Laundry , Wifi ",2,no,2021,6,5200
+campus life pg,hardaspur,apartment,unfurnished,"Wifi, Laundry",2,yes,2021,1,6000
+metro nest,other,villa,semi furnished,"Wifi, Laundry",1,yes,2024,6,7000
+the social nest,phagwara,independent house,unfurnished,"Wifi, Laundry",1,yes,2022,3,6300
+nest inn,law gate,villa,semi furnished,Wifi,1,yes,2015,2,5000
+anchor pg,phagwara,apartment,semi furnished,"Wifi, Laundry",3,no,2018,3,4500
+smart stay,law gate,pg,unfurnished,Wifi,1,no,2017,2.5,4000
+liveasy pg,other,apartment,unfurnished,Wifi,3,yes,2021,7,6000
+cityscape pg,phagwara,villa,semi furnished,Wifi ,1,yes,2020,3,5500
+urban pod,other,villa,unfurnished,"Wifi, Laundry",1,no,2015,6.5,6000
+bunk & bed pg,hardaspur,apartment,semi furnished,"Wifi,AC Facility",2,no,2016,1,3500
+grove stay,phagwara,pg,unfurnished,"Wifi, Laundry",2,yes,2016,4,4500
+serene stays,hardaspur,villa,semi furnished,"Wifi, Laundry , AC Facility",3,yes,2018,1,5000
+crescent pg,law gate,independent house,semi furnished,Wifi,2,yes,2022,2,6500
+modern nest,jalandhar (rama mandi),villa,semi furnished,Wifi,3,yes,2022,3.5,5000
+pearl nest,hardaspur,villa,unfurnished,Wifi,2,no,2022,1,5000
+silver oak pg,hardaspur,villa,semi furnished,"Wifi, Laundry",3,yes,2015,1,5000
+zen space pg,jalandhar (rama mandi),apartment,semi furnished,Wifi,1,yes,2017,3.5,5000
+golden stay,hardaspur,apartment,semi furnished,"Laundry , AC Facility",1,no,2024,0.5,6300
+metro pg,law gate,apartment,unfurnished,"Wifi, Laundry",3,yes,2018,1.5,5651
+serene stays,hardaspur,villa,fully furnished,"Laundry , AC Facility",2,yes,2015,1,6000
+spark living,hardaspur,pg,unfurnished,"Wifi, Laundry",1,yes,2023,2,6600
+eden residency,jalandhar (rama mandi),pg,semi furnished,"Wifi, Laundry , AC Facility",2,no,2024,3.5,6300
+good vibes stay,hardaspur,villa,unfurnished,Wifi,1,no,2017,1,5000
+elite living,other,apartment,fully furnished,"Laundry , AC Facility",2,yes,2023,6.5,6400
+nova nest,jalandhar (rama mandi),pg,fully furnished,"Wifi, Laundry , AC Facility",3,no,2016,3.5,4951
+royal stay,other,apartment,semi furnished,"Wifi, Laundry",2,no,2023,5.5,6000
+budget nest,hardaspur,independent house,fully furnished,Wifi ,2,no,2020,1.5,5300
+poshpad pg,jalandhar (rama mandi),pg,unfurnished,Wifi,2,no,2022,3.5,5500
+cloud nine pg,jalandhar (rama mandi),independent house,fully furnished,"Wifi, Laundry",1,no,2018,3.5,4700
+the comfort den,phagwara,villa,fully furnished,Wifi,2,no,2015,3,6500
+bliss homes,hardaspur,independent house,fully furnished,"Wifi,AC Facility",2,yes,2023,1,7000
+spring nest,other,independent house,fully furnished,Wifi,3,no,2022,6,5500
+liveasy pg,other,villa,unfurnished,"Wifi, Laundry",1,yes,2017,5,7500
+tranquil abode,other,pg,unfurnished,"Wifi, Laundry",3,no,2023,5,5800
+cosy corner,hardaspur,pg,fully furnished,"Laundry , Wifi ",1,no,2020,0.5,5300
+crescent pg,phagwara,apartment,unfurnished,"Wifi, Laundry",1,yes,2024,3.5,6500
+silver nest,hardaspur,pg,unfurnished,"Wifi, Laundry",3,yes,2022,1,6300
+king's stay,phagwara,independent house,semi furnished,"Wifi, Laundry",3,yes,2015,3,5600
+stellar stays,phagwara,apartment,unfurnished,Wifi,3,no,2017,3.5,4000
+hostel hive,law gate,apartment,unfurnished,"Laundry , AC Facility",1,no,2021,2.5,5200
+brightway pg,law gate,apartment,unfurnished,"Wifi,AC Facility",3,no,2016,1.5,3700
+serene stays,other,villa,fully furnished,"Laundry , AC Facility",2,yes,2018,5.5,5000
+nova pg,jalandhar (rama mandi),apartment,fully furnished,Wifi,3,yes,2021,3.5,8700
+zenith living,law gate,villa,unfurnished,"Wifi,AC Facility",2,yes,2023,1.5,6000
+shelter inn,phagwara,apartment,semi furnished,"Laundry , Wifi ",2,no,2021,4,5400
+sunrise pg,hardaspur,independent house,unfurnished,"Wifi, Laundry",1,no,2016,1,3700
+alpha stay,jalandhar (rama mandi),independent house,semi furnished,Wifi,3,no,2023,4,6000
+dream stay,other,villa,fully furnished,"Wifi, Laundry",2,no,2018,5,6000
+galaxy pg,jalandhar (rama mandi),apartment,unfurnished,Wifi,1,no,2020,3.5,4500
+royal stay,law gate,apartment,semi furnished,"Laundry , Wifi ",2,yes,2018,1,5300
+alpha stay,other,villa,semi furnished,"Laundry , AC Facility",1,yes,2020,6.5,5500
+metro nest,jalandhar (rama mandi),apartment,fully furnished,Wifi ,1,no,2021,3.5,5286
+harmony hideout,jalandhar (rama mandi),villa,fully furnished,Wifi,1,yes,2023,3.5,7500
+bliss homes,hardaspur,apartment,unfurnished,Wifi,1,yes,2021,1.5,6000
+spark living,jalandhar (rama mandi),apartment,semi furnished,"Wifi, Laundry",1,no,2016,4,3500
+tranquil house,phagwara,pg,semi furnished,Wifi,1,no,2024,3,6300
+metronest pg,other,pg,fully furnished,"Laundry , Wifi ",1,no,2018,6.5,4700
+student hub,other,independent house,unfurnished,Wifi,2,yes,2023,6,6600
+the hangout pg,phagwara,pg,fully furnished,"Laundry , AC Facility",1,yes,2021,3.5,6400
+golden stay,jalandhar (rama mandi),apartment,fully furnished,"Wifi, Laundry",1,no,2021,3.5,8400
+mint house,phagwara,pg,semi furnished,"Wifi, Laundry , AC Facility",2,no,2018,3,4500
+spring nest,law gate,apartment,fully furnished,Wifi,1,no,2023,2.5,8300
+cloud pg,jalandhar (rama mandi),villa,fully furnished,"Wifi, Laundry , AC Facility",1,yes,2022,3.5,7500
+golden stay,law gate,apartment,fully furnished,"Wifi, Laundry",3,no,2018,2.5,7200
+bunk & bed pg,other,villa,fully furnished,"Laundry , Wifi ",2,no,2020,6,7000
+sunny side pg,other,pg,fully furnished,"Laundry , Wifi ",1,yes,2023,5,7000
+grove stay,jalandhar (rama mandi),pg,fully furnished,Wifi ,1,no,2021,3.5,5600
+bright living,law gate,independent house,fully furnished,Wifi,2,no,2023,1.5,6200
+oasis pg,phagwara,independent house,fully furnished,Wifi,3,yes,2018,3.5,5500
+the comfort den,hardaspur,pg,unfurnished,"Wifi, Laundry , AC Facility",1,yes,2024,2,6500
+tranquil house,other,apartment,fully furnished,"Wifi,AC Facility",2,no,2022,6.5,4905
+city comfort pg,jalandhar (rama mandi),villa,fully furnished,Wifi ,1,yes,2015,3.5,5000
+cityscape pg,jalandhar (rama mandi),pg,unfurnished,"Wifi, Laundry",1,no,2016,3.5,3700
+campus corner,law gate,villa,semi furnished,"Laundry , AC Facility",2,no,2017,0.5,6000
+haven homes,law gate,villa,semi furnished,"Wifi, Laundry",1,yes,2023,0.5,5000
+comfy crib,jalandhar (rama mandi),pg,fully furnished,"Laundry , Wifi ",3,yes,2023,3.5,7000
+modern nest,law gate,independent house,semi furnished,"Wifi, Laundry , AC Facility",3,yes,2024,1,5711
+smart stay,law gate,pg,semi furnished,"Wifi,AC Facility",1,yes,2020,1.5,5500
+shelter plus,law gate,independent house,fully furnished,"Laundry , Wifi ",3,no,2016,0.5,6189
+luxe lodge,phagwara,independent house,semi furnished,"Wifi,AC Facility",1,no,2020,3.5,5852
